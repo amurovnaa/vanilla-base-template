@@ -1,2 +1,4 @@
-# vanilla-base-template
-Base website structure
+# Vanilla BASE Template
+
+- Встанови базові залежності проекту в терміналі командою `npm install`.
+- Запусти режим розробки, виконавши в терміналі команду `npm run dev`.
